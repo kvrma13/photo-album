@@ -1,0 +1,254 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "albumName": "car",
+            "coverPhoto": "https://www.selectluxury.com/contentimages/fpimages/img_fid1_5.jpg"
+        },
+        {
+            "id": 2,
+            "albumName": "clothes",
+            "coverPhoto": "http://cdn.yoox.biz/39/39862030bq_13_f.jpg"
+        },
+        {
+            "id": 3,
+            "albumName": "boxing",
+            "coverPhoto": "https://amp.businessinsider.com/images/59970015b0e0b51d008b5f20-750-563.jpg"
+        },
+        {
+            "id": 4,
+            "albumName": "nature",
+            "coverPhoto":"http://ninja-writer.com/wp-content/uploads/2014/04/medium_8092757994.jpg"
+        },
+        {
+            "id": 5,
+            "albumName": "music",
+            "coverPhoto": "https://pcdn.columbian.com/wp-content/uploads/2018/02/Music_Review-Black_Panther_40256.jpg-ad5df.jpg"
+        },
+        {
+            "id": 6,
+            "albumName": "shoes",
+            "coverPhoto": "http://justfreshkicks.com/wp-content/uploads/2018/10/Travis-Scott-x-Air-Jordan-1-Sail-Dark-Mocha-University-Red-Black-Release-Date-Pricing.jpg"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "name": "tank",
+            "photo": "http://images.performgroup.com/di/library/sporting_news/df/3c/davis-ruiz-292019-getty-ftr_u4077jxzx7b21ll7d9ys6bsog.jpg?t=-705769496&w=960&quality=70",
+            "albumId": 3
+        },
+        {
+            "id": 2,
+            "name": "shakur",
+            "photo": "https://i.ytimg.com/vi/cuS2NmuPKTs/maxresdefault.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 3,
+            "name": "dev",
+            "photo": "https://www.boxing247.com/wp-content/uploads/2018/05/0-LR_SHO-FIGHT-NIGHT-HANEY-VS-MENARD-TRAPPFOTOS-05112018-8636.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 4,
+            "name": "may",
+            "photo": "https://www.ringtv.com/wp-content/uploads/2018/05/Floyd-Mayweather-Jr.-vs.-Manny-Pacquiao-Photo-credit-Steve-Marcus-Reuters.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 5,
+            "name": "royjones",
+            "photo": "https://pbs.twimg.com/profile_images/682410660/royjones.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 6,
+            "name": "miketyson",
+            "photo": "http://inn.spb.ru/images/400/DSC100468793.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 7,
+            "name": "supreme",
+            "photo": "https://static.highsnobiety.com/wp-content/uploads/2017/10/09154727/guide-buying-supreme-3.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 8,
+            "name": "goyard",
+            "photo": "https://di2ponv0v5otw.cloudfront.net/posts/2018/07/22/5b54d3d14ab633fa5d4ebd49/m_5b54d3f842aa76cb97998d16.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 9,
+            "name": "saint",
+            "photo": "https://i.pinimg.com/originals/e2/56/57/e256578a679b2dbce0e98699aa30cc14.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 10,
+            "name": "givenchy",
+            "photo": "https://www.givenchy.com/on/demandware.static/-/Sites-Givenchy_master/default/dw1b26d777/images/16F7370651001/16F7370651001-02-01.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 11,
+            "name": "jerry lorenzo",
+            "photo": "https://i.pinimg.com/originals/16/f3/7c/16f37cff5103d0367a73c9b274aed6f4.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 12,
+            "name": "stoneisland",
+            "photo": "https://assets.catawiki.nl/assets/2018/3/7/5/a/f/5af10d55-7ae4-4212-9414-d9d7a0e9c015.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 13,
+            "name": "porsche",
+            "photo": "https://cnet1.cbsistatic.com/img/pIiep1ISTaGRsMHTlx_kxG-OSwg=/830x467/2011/10/25/7758268b-67c3-11e3-a665-14feb5ca9861/35043594_OVR.JPG",
+            "albumId": 1
+        },
+        {
+            "id": 14,
+            "name": "audi",
+            "photo": "https://cdn.shopify.com/s/files/1/1759/4823/products/vf-engineering-vf800-audi-r8-v10-supercharged-front.jpg?v=1530838389",
+            "albumId": 1
+            
+        },
+        {
+            "id": 15,
+            "name": "alpha",
+            "photo": "http://autodesignmagazine.com/wp-content/uploads/2018/06/2018060501_ALFAromeomole.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 16,
+            "name": "bmw",
+            "photo": "http://www.autonews-mag.com/images/BMW-i8-Vossen-Forged-LC-104.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 17,
+            "name": "mercedes",
+            "photo": "https://cdn.motor1.com/images/mgl/JYA6M/s1/mercedes-amg-gle-63-s-coupe-project-inferno.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 18,
+            "name": "tesla",
+            "photo": "https://server86.texasdirectauto.com/5YJXCBE40GF003666/002_0002.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 19,
+            "name": "Beach Arc",
+            "photo": "https://www.californiabeaches.com/wp-content/uploads/2014/09/14302452-933x700.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 20,
+            "name": "Red Rock Formation",
+            "photo": "https://michaeltyrrell.files.wordpress.com/2011/11/263433-nevada-red-rock-canyon.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 21,
+            "name": "Mtn Forest",
+            "photo": "https://www.discovertheforest.org/wp-content/uploads/2018/01/01.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 22,
+            "name": "Desert",
+            "photo": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Sahara-ice-snow-desert-797256.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 23,
+            "name": "Rainforest",
+            "photo": "http://sciencenordic.com/sites/default/files/p_33_montane_forests_udzungwa_lille_0.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 24,
+            "name": "Artic",
+            "photo": "https://cdna.artstation.com/p/assets/images/images/002/014/172/large/steve-lund-final-render-web.jpg?1455985992",
+            "albumId": 4
+        },
+        {
+            "id": 25,
+            "name": "jcole",
+            "photo": "http://i.imgur.com/qwHqM8z.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 26,
+            "name": "jid",
+            "photo": "https://static1.squarespace.com/static/59cad8e58a02c7f38421993a/t/5c05adc14d7a9c1795455f91/1543876045768/jid-j-cole.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 27,
+            "name": "gucci",
+            "photo": "https://thegarnetmine.com/wp-content/uploads/2017/10/Gucci-Mane-616x440.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 28,
+            "name": "sada",
+            "photo": "http://hiphopog.com/wp-content/uploads/2018/07/Sada-Baby-%E2%80%93-Google-My-Name-ft.-Mazerati-Ricky.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 29,
+            "name": "bbysmoov",
+            "photo": "https://i.ytimg.com/vi/SeljFvkNtzc/hqdefault.jpg",
+            "albumId": 5
+            
+        },
+        {
+            "id": 30,
+            "name": "rocky",
+            "photo": "https://coubsecure-s.akamaihd.net/get/b115/p/coub/simple/cw_timeline_pic/020ba156ab7/1c6cded4c5324ea0cbe0f/big_1473914145_image.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 31,
+            "name": "yeezy",
+            "photo": "https://i.pinimg.com/236x/8a/9a/f0/8a9af0d38fae5672ef72a4ff07ae0e4d.jpg",
+            "albumId": 6
+        },
+        {
+            "id": 32,
+            "name": "fog",
+            "photo": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F11%2Fjerry-lorenzo-fear-of-god-nike-collection-debut-01.jpg?q=75&w=800&cbr=1&fit=max",
+            "albumId": 6
+        },
+        {
+            "id": 33,
+            "name": "travis1",
+            "photo": "https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_crop,h_1125,w_2000,x_0,y_487/c_scale,w_690,dpr_2.0/v1/b5muzrtxuanxpxucx7yn/travis-scott-air-jordan-1-brown-release-date-cd4487-100-profile",
+            "albumId": 6
+        },
+        {
+            "id": 34,
+            "name": "travis4",
+            "photo": "https://imageproxy.themaven.net/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fmaven-user-photos%2Ftheshoegame%2Fdraft%2F9u_xCyrZj0i4K-ggMUO-2g%2FTjphUXxr-0qDu4sS_-4KoQ",
+            "albumId": 6
+        },
+        {
+            "id": 35,
+            "name": "chealsea",
+            "photo": "http://www.sherrygoshonart.com/images/large/Brand%20Online/Boots%201702Saint%20Laurent%20Boots%20Cheap%20Price%20br%20Men%20Saint%20Laurent%20Fashion%20Sale%20Cheap%20Saint%20Laurent%20Wyatt%2030%20Leather%20Chelsea%20Boots%20Zr147_1_LRG.jpg",
+            "albumId": 6
+        },
+        {
+            "id": 36,
+            "name": "louivb",
+            "photo": "http://4.bp.blogspot.com/-KWXYYq-4h9o/UXt4QUsWImI/AAAAAAAAABM/jdvo8eCGvHo/s1600/Christian-Louboutin-Louis-Spikes-High-Top-Sneakers-Black.jpg",
+            "albumId": 6
+        }
+    ]
+}

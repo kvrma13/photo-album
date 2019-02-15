@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "concurrently": "^4.1.0",
+    "json": "^9.0.6",
+    "react": "^16.8.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "scripts": {
+    "start": "concurrently \"json-server db.json -p 3001\" \"cd client && npm start\""
+  }
+}
